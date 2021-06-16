@@ -33,7 +33,7 @@ client.on('messageDelete', message => {
  
   const channel = client.channels.cache.get('')
    //Pongan la id del canal
-   
+   channel.send(embed)
  })
 
 
