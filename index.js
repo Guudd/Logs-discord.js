@@ -4,9 +4,9 @@ const token = require("./config.json")
 
 
 client.on('ready', function() {
-    console.log("Launched | CopyRight | Created by Gud#0001")
+    console.log("Launched | | Created by Gud#0001")
     console.log("Disfruta!")
-    console.log("twitch.tv/gudd27 | https://discord.gg/dgqHZZ7CrG")
+    console.log("twitch.tv/gudd27 | ")
 });
 
 
